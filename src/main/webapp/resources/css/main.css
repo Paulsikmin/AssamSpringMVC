@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+ul {
+	list-style-type : none;
+	padding-left : 0;
+}
+
+li {
+	margin : 10px;
+}
+
+ul label {
+	width : 80px;
+	text-align : left;
+	float : left;
+}
